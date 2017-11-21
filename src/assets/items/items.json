@@ -1,0 +1,97 @@
+[
+    {
+        "itemId": 1,
+		"itemName": "Chicken Biryani",
+		"description": "Dum Biryani",
+        "price": 250,
+        "category":"main",
+        "quantity":0,
+        "imageUrl":"assets/images/chicken_biryani.jpg"
+    },
+    {
+        "itemId": 2,
+		"itemName": "Mutton Biryani",
+		"description": "Dum Biryani",
+        "price": 250,
+        "category":"main",
+        "quantity":0,
+        "imageUrl":"assets/images/mutton_biryani.jpg"
+        
+    },
+    {
+        "itemId": 3,
+		"itemName": "Butter Chicken",
+		"description": "Yummy Taste",
+        "price": 200,
+        "category":"starter",
+        "quantity":0,
+        "imageUrl":"assets/images/butter_chicken.jpg"
+        
+    },
+    {
+        "itemId": 4,
+		"itemName": "Chicken Manchuria",
+		"description": "Spicy chicken",
+        "price": 150,
+        "category":"starter",
+        "quantity":0,
+        "imageUrl":"assets/images/chicken_manchurian.jpg"
+        
+    },
+    {
+        "itemId": 5,
+		"itemName": "Pepper Chicken",
+		"description": "Crunchy",
+        "price": 200,
+        "category":"starter",
+        "quantity":0,
+        "imageUrl":"assets/images/pepper_chicken.jpg"
+        
+    },
+    {
+        "itemId": 6,
+		"itemName": "Gulab Jamun",
+		"description": "Gulab Jamun with venilla ice cream flavour is a great combination.",
+        "price": 80,
+        "category":"dessert",
+        "quantity":0,
+        "imageUrl":"assets/images/gulab_jamun.jpg"
+    },
+    {
+        "itemId": 7,
+		"itemName": "Double ka Mitha",
+		"description": "It's simply superb to have after Dhum biryani.",
+        "price": 80,
+        "category":"dessert",
+        "quantity":0,
+        "imageUrl":"assets/images/double_ka_mitha.jpg"
+    },
+    {
+        "itemId": 8,
+		"itemName": "Butter naan",
+		"description": "Superb coombination with butter chicken",
+        "price": 30,
+        "category":"roti",
+        "quantity":0,
+        "imageUrl":"assets/images/butter_naan.jpg"
+    },
+    {
+        "itemId": 9,
+		"itemName": "Plain naan",
+		"description": "Superb combination with buttern chicken",
+        "price": 20,
+        "category":"roti",
+        "quantity":0,
+        "imageUrl":"assets/images/plain_naan.jpg"
+    },
+    {
+        "itemId": 10,
+		"itemName": "Roti",
+		"description": "Superb combination with butter chicken",
+        "price": 15,
+        "category":"roti",
+        "quantity":0,
+        "imageUrl":"assets/images/roti.jpg"
+    }
+
+]

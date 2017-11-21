@@ -1,0 +1,62 @@
+.panelpos{
+    position: relative; top: 150px; left: 380px; width: 46%;
+}
+
+.paymentpanelpos{
+    position: relative; 
+    top: 150px; 
+    left: 380px; 
+    text-align: center; 
+    width: 43%;
+}
+
+.tableheadercolor{
+    color: blue;
+}
+
+.center{
+    text-align:center;
+}
+
+.text-form{
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+.line{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 2px solid #bdbdbd;
+}
+@media(max-width:670px){
+    .mobile-nav{
+        margin-left:15px !important; 
+    }
+    .pane-mobile{
+        padding-top:0px;
+        padding-bottom:0px;
+    }
+    .mobile-padding{
+        padding-top:65px;
+    }
+    .nav-bar-fixed{
+        width:100%;
+        position: fixed;
+        z-index: 100;
+    }
+}
+
+@media (min-width:671px) {
+    .mobile-padding{
+        padding-top:10px;
+    }
+    
+}

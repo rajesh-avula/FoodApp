@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+app-background{
+    background: linear-gradient(toright,#667db6,#0082c8,#0082c8,#667db6);
+}
+
+.line{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 2px solid #bdbdbd;
+}
+
+.home-button {
+    font-size: 15px;
+    border-radius: 8px !important;
+    background-color:#ff2525  !important;
+    border-color:#fff !important ;
+    color: #fff;
+
+}
+.navbar-default{
+    background-color:#ff2525  !important;
+}
